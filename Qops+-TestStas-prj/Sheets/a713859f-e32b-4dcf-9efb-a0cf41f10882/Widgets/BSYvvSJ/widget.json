@@ -1,0 +1,68 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 12,
+  "Id": "BSYvvSJ",
+  "Properties": {
+    "boolRemovePrefix": true,
+    "extensionMeta": {
+      "author": "Christof Schwarz, Ralf Becher",
+      "bundled": false,
+      "checksum": null,
+      "cloud": true,
+      "createdAt": "2021-12-07T14:32:21.203Z",
+      "dependencies": {
+        "qlik-sense": ">=3.0.x"
+      },
+      "description": "This puts a standard table object in place with all columns found in the data model",
+      "file": {
+        "contentLength": 108515,
+        "contentType": "application/x-zip-compressed",
+        "fileId": "IBgi9wHzfEPf71AEpLKEM9rHb8Z1K_fr",
+        "md5": "bb7ad93f631bf560ed2ef5bc73dca822",
+        "originalname": "QuickTableViewer.zip"
+      },
+      "homepage": "",
+      "icon": "table",
+      "iconChar": "puzzle",
+      "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+      "id": "D1vWM5fayxBh32FgoZ3SZNuPEUTUYwcm",
+      "isLibraryItem": true,
+      "isThirdParty": true,
+      "keywords": "qlik-sense, visualization",
+      "license": "",
+      "loadpath": "QuickTableViewer",
+      "name": "QuickTableViewer",
+      "preview": "preview.png",
+      "previewIconURL": "https://merckgroup.eu.qlikcloud.com/api/v1/extensions/D1vWM5fayxBh32FgoZ3SZNuPEUTUYwcm/file/preview.png",
+      "qextFilename": "QuickTableViewer",
+      "qextVersion": "1.0.0",
+      "repository": "",
+      "supernova": false,
+      "tags": [],
+      "template": "QuickTableViewer",
+      "tenantId": "wMF41TwCaQIhTQ6EiOLvZ2nvy_61m5wC",
+      "translationKey": "",
+      "type": "visualization",
+      "updatedAt": "2021-12-07T14:32:21.203Z",
+      "userId": "GKeBlM275hDSeTa6NsOjS4GnBTdi8mEx",
+      "version": "1.0.0",
+      "visible": true
+    },
+    "fieldPattern": "*",
+    "hideColIfNotPresent": true,
+    "ignoreFieldPattern": "%*",
+    "limitFields": 50,
+    "qInfo": {
+      "qId": "BSYvvSJ",
+      "qType": "QuickTableViewer"
+    },
+    "qMetaDef": {},
+    "selectedTable": "",
+    "version": "1.0.0",
+    "visualization": "QuickTableViewer"
+  },
+  "Row": 0,
+  "Type": "QuickTableViewer",
+  "Width": 24
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "dda056af-9abc-4805-b9dc-b05cb6c967ff",
+  "Properties": {
+    "qDim": {
+      "coloring": {
+        "changeHash": "0.06862153322983677",
+        "colorMapRef": "ZumUJjD",
+        "hasValueColors": false
+      },
+      "qFieldDefs": [
+        "Attribute 2 value(s)"
+      ],
+      "qFieldLabels": [
+        "Attribute 2 value(s)"
+      ],
+      "qGrouping": "N",
+      "title": "Attribute 2 value(s)"
+    },
+    "qInfo": {
+      "qId": "dda056af-9abc-4805-b9dc-b05cb6c967ff",
+      "qType": "dimension"
+    },
+    "qMetaDef": {
+      "description": "d2",
+      "tags": [
+        "d2"
+      ],
+      "title": "Attribute 2 value(s) er"
+    }
+  }
+}

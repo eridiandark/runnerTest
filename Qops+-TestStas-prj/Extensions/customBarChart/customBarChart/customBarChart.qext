@@ -1,0 +1,8 @@
+{
+	"name": "customBarChart",
+	"description": "Custom chart based in e-charts library",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "2.15.0",
+	"author": "Wederson Domingues"
+}

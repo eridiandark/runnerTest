@@ -1,0 +1,18 @@
+{
+  "Children": [],
+  "Column": 12,
+  "Height": 6,
+  "Id": "MkfUG",
+  "Properties": {
+    "qExtendsId": "1eb43971-b3af-4ac8-a973-a2b1fc4d4e4b",
+    "qInfo": {
+      "qId": "MkfUG",
+      "qType": "customBarChart"
+    },
+    "qMetaDef": {}
+  },
+  "Row": 6,
+  "Title": "",
+  "Type": "customBarChart",
+  "Width": 12
+}

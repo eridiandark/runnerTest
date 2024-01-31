@@ -1,0 +1,39 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "38296711-0dc4-47da-b6b8-b65d237dae7e",
+    "Title": "Мой новый лист2"
+  },
+  "SheetProperties": {
+    "Id": "38296711-0dc4-47da-b6b8-b65d237dae7e",
+    "Properties": {
+      "columns": 24,
+      "customRowBase": 12,
+      "gridMode": "simpleEdit",
+      "gridResolution": "small",
+      "layoutOptions": {
+        "extendable": false,
+        "mobileLayout": "LIST"
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "38296711-0dc4-47da-b6b8-b65d237dae7e",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Мой новый лист2"
+      },
+      "rank": 1,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      }
+    }
+  },
+  "Widgets": []
+}

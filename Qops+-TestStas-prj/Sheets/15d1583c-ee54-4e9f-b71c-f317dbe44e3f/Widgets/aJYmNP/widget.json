@@ -1,0 +1,18 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 6,
+  "Id": "aJYmNP",
+  "Properties": {
+    "qExtendsId": "9a28397d-2e33-49d8-a2b4-52faaeb0e216",
+    "qInfo": {
+      "qId": "aJYmNP",
+      "qType": "scatterplot"
+    },
+    "qMetaDef": {}
+  },
+  "Row": 6,
+  "Title": "",
+  "Type": "scatterplot",
+  "Width": 8
+}

@@ -1,0 +1,42 @@
+{
+  "name": "D3-Bullet-Chart1",
+  "Properties": [],
+  "qopsExtensionType": "QlikSense",
+  "references": [
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\D3-Bullet-Chart1.js",
+      "externalPath": "/extensions/D3-Bullet-Chart1/D3-Bullet-Chart1.js",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/D3-Bullet-Chart1.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\D3-Bullet-Chart1.qext",
+      "externalPath": "/extensions/D3-Bullet-Chart1/D3-Bullet-Chart1.qext",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/D3-Bullet-Chart1.qext"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\js\\bullet.js",
+      "externalPath": "/extensions/D3-Bullet-Chart1/js/bullet.js",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/js/bullet.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\js\\d3.min.js",
+      "externalPath": "/extensions/D3-Bullet-Chart1/js/d3.min.js",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/js/d3.min.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\js\\d3.min_old.js",
+      "externalPath": "/extensions/D3-Bullet-Chart1/js/d3.min_old.js",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/js/d3.min_old.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\js\\properties.js",
+      "externalPath": "/extensions/D3-Bullet-Chart1/js/properties.js",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/js/properties.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\D3-Bullet-Chart1\\stylesheet.css",
+      "externalPath": "/extensions/D3-Bullet-Chart1/stylesheet.css",
+      "logicalPath": "/extensions/D3-Bullet-Chart1/stylesheet.css"
+    }
+  ]
+}

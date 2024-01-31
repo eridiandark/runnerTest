@@ -1,0 +1,349 @@
+{
+  "Children": [
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "41b34563-ff6c-465f-875c-0f91b270e70f",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "41b34563-ff6c-465f-875c-0f91b270e70f",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "disableNavMenu": false,
+          "footnote": "",
+          "qDef": {
+            "autoSort": true,
+            "cId": "zmWmn",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Attribute 1 global"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "showTitles": true,
+          "subtitle": "",
+          "title": ""
+        },
+        "qMetaDef": {},
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Attribute 1 global",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Attribute 1 global",
+      "Type": "listbox",
+      "Width": 0
+    },
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "595dc9ba-bdd4-4078-9589-a1ba058a1613",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "595dc9ba-bdd4-4078-9589-a1ba058a1613",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "disableNavMenu": false,
+          "footnote": "",
+          "qDef": {
+            "autoSort": true,
+            "cId": "JfxkrJD",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Attribute 1 name"
+            ],
+            "qFieldLabels": [
+              "Attribute 1 name"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "showTitles": true,
+          "subtitle": "",
+          "title": ""
+        },
+        "qMetaDef": {},
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Attribute 1 name",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Attribute 1 name",
+      "Type": "listbox",
+      "Width": 0
+    },
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "da3ac3eb-3cfc-4c9d-9886-e47fe2260ff2",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "da3ac3eb-3cfc-4c9d-9886-e47fe2260ff2",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "disableNavMenu": false,
+          "footnote": "",
+          "qDef": {
+            "autoSort": true,
+            "cId": "KtyFe",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Attribute 1 value(s)"
+            ],
+            "qFieldLabels": [
+              "Attribute 1 value(s)"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "showTitles": true,
+          "subtitle": "",
+          "title": ""
+        },
+        "qMetaDef": {},
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Attribute 1 value(s)",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Attribute 1 value(s)",
+      "Type": "listbox",
+      "Width": 0
+    },
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "fdf55176-816f-4cac-8f3c-3a50a6369891",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "fdf55176-816f-4cac-8f3c-3a50a6369891",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "disableNavMenu": false,
+          "footnote": "",
+          "qDef": {
+            "autoSort": true,
+            "cId": "hmSSwwq",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Regular price"
+            ],
+            "qFieldLabels": [
+              "Regular price"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "showTitles": true,
+          "subtitle": "",
+          "title": ""
+        },
+        "qMetaDef": {},
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Regular price",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Regular price",
+      "Type": "listbox",
+      "Width": 0
+    },
+    {
+      "Children": [],
+      "Column": 0,
+      "Height": 0,
+      "Id": "fe7921b0-5e1d-4173-8912-4eaedcdb756f",
+      "Properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+          "qId": "fe7921b0-5e1d-4173-8912-4eaedcdb756f",
+          "qType": "listbox"
+        },
+        "qListObjectDef": {
+          "disableNavMenu": false,
+          "footnote": "",
+          "qDef": {
+            "autoSort": true,
+            "cId": "aVHJNq",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Attribute 3 name"
+            ],
+            "qFieldLabels": [
+              "Attribute 3 name"
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1,
+                "qSortByState": 1
+              }
+            ]
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": [],
+          "qOtherTotalSpec": {},
+          "qShowAlternatives": true,
+          "showDetails": true,
+          "showDetailsExpression": false,
+          "showTitles": true,
+          "subtitle": "",
+          "title": ""
+        },
+        "qMetaDef": {},
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Attribute 3 name",
+        "visualization": "listbox"
+      },
+      "Row": 0,
+      "Title": "Attribute 3 name",
+      "Type": "listbox",
+      "Width": 0
+    }
+  ],
+  "Column": 12,
+  "Height": 6,
+  "Id": "jkVDWpz",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {},
+      "qDef": {
+        "qListObjectDef": {
+          "qDef": {
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": []
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": []
+        }
+      }
+    },
+    "qInfo": {
+      "qId": "jkVDWpz",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 6,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 12
+}

@@ -1,0 +1,12 @@
+{
+  "Description": "string",
+  "Id": "c2eb6946-22b6-4ef8-bf02-9c9d8c365c2a",
+  "Name": "Qops+-TestStas",
+  "Owner": {
+    "name": "Test",
+    "userDirectory": "DVSTS"
+  },
+  "Published": true,
+  "Stream": "test",
+  "ThumbnailUrl": "/appcontent/_self/wheel.png"
+}

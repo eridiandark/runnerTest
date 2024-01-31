@@ -1,0 +1,29 @@
+{
+  "Id": "gFYygG",
+  "Properties": {
+    "qInfo": {
+      "qId": "gFYygG",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "Count([Attribute 1 global])",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "Attribute 4 value(s)",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "m3",
+      "tags": [
+        "m3"
+      ],
+      "title": "Attribute 4 value(s) 123"
+    }
+  }
+}

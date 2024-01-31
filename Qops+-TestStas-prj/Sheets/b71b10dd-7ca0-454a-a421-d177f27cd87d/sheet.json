@@ -1,0 +1,39 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "b71b10dd-7ca0-454a-a421-d177f27cd87d",
+    "Title": "Мой новый лист"
+  },
+  "SheetProperties": {
+    "Id": "b71b10dd-7ca0-454a-a421-d177f27cd87d",
+    "Properties": {
+      "columns": 24,
+      "gridMode": "simpleEdit",
+      "gridResolution": "small",
+      "layoutOptions": {
+        "extendable": false
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "b71b10dd-7ca0-454a-a421-d177f27cd87d",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "Мой новый лист"
+      },
+      "rank": 3,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/_self/wheel.png"
+        }
+      }
+    }
+  },
+  "Widgets": []
+}

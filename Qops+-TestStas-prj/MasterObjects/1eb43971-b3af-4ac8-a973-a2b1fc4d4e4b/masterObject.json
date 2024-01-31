@@ -1,0 +1,443 @@
+{
+  "Id": "1eb43971-b3af-4ac8-a973-a2b1fc4d4e4b",
+  "Properties": {
+    "disableNavMenu": false,
+    "extensionMeta": {
+      "author": "Wederson Domingues",
+      "description": "Custom chart based in e-charts library",
+      "icon": "puzzle",
+      "iconChar": "puzzle",
+      "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+      "isLibraryItem": true,
+      "isThirdParty": true,
+      "name": "customBarChart",
+      "template": "customBarChart",
+      "translationKey": "",
+      "type": "visualization",
+      "version": "2.15.0",
+      "visible": true
+    },
+    "footnote": "",
+    "masterVersion": 0.96,
+    "qHyperCubeDef": {
+      "customErrorMessage": {
+        "calcCond": ""
+      },
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "VJYTn",
+            "othersLabel": "Others",
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "Attribute 2 value(s)"
+            ],
+            "qFieldLabels": [
+              ""
+            ],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qSortByNumeric": 1
+              }
+            ]
+          },
+          "qOtherLabel": {
+            "qv": "Others"
+          },
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {
+              "qv": "10"
+            },
+            "qOtherLimit": {
+              "qv": "0"
+            },
+            "qOtherLimitMode": "OTHER_GE_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [
+        {
+          "qHeight": 625,
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 16
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0,
+        1
+      ],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qDimensions": [],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [],
+          "qInterColumnSortOrder": [],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qTitle": {}
+        }
+      },
+      "qMaxStackedCells": 5000,
+      "qMeasures": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [
+            {
+              "qAttribute": true,
+              "qExpression": "='#000'"
+            },
+            {
+              "qAttribute": true,
+              "qExpression": "='My Measure Title'&chr(10)&Money(column(1))"
+            }
+          ],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "autoSort": true,
+            "cId": "rVPmPPh",
+            "color": {
+              "color": "#4477aa",
+              "index": "-1"
+            },
+            "colorType": 0,
+            "customDataLabel": {
+              "use": false
+            },
+            "dataLabel": {
+              "auto": true,
+              "border": {
+                "color": {
+                  "color": "#fff",
+                  "index": "-1"
+                },
+                "colorExpression": "#000",
+                "width": "0"
+              },
+              "color": {
+                "color": "#fff",
+                "index": "-1"
+              },
+              "colorExpression": "#000"
+            },
+            "globalSettings": {
+              "dataLabel": {
+                "align": "center",
+                "distance": "5",
+                "family": "sans-serif",
+                "position": "inside",
+                "rotate": "0",
+                "size": "15",
+                "visibility": true,
+                "weight": "normal",
+                "weightCustom": "300"
+              },
+              "use": true
+            },
+            "line": {
+              "step": "",
+              "symbolSize": "4",
+              "type": "solid",
+              "width": "2"
+            },
+            "numFormatFromTemplate": true,
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qDef": "Count([Attribute 1 value(s)])",
+            "qExpressions": [],
+            "qGrouping": "N",
+            "qNumFormat": {
+              "qnDec": 10,
+              "qType": "U",
+              "qUseThou": 0
+            },
+            "qTags": [],
+            "showInLegend": true,
+            "showInToolTip": true,
+            "stack": "",
+            "type": "bar",
+            "yIndex": "0"
+          },
+          "qMiniChartDef": {
+            "qAttributeExpressions": [],
+            "qMaxNumberPoints": -1,
+            "qOtherTotalSpec": {
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qForceBadValueKeeping": true,
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qOtherMode": "OTHER_OFF",
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qReferencedExpression": {},
+              "qTotalMode": "TOTAL_OFF"
+            },
+            "qSortBy": {
+              "qExpression": {}
+            }
+          },
+          "qSortBy": {
+            "qExpression": {},
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": -1
+          },
+          "qTrendLines": []
+        }
+      ],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "1eb43971-b3af-4ac8-a973-a2b1fc4d4e4b",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "description": "mas1",
+      "tags": [
+        "mas1"
+      ],
+      "title": "mas1"
+    },
+    "settings": {
+      "axisLabel": {
+        "align": "center",
+        "border": {
+          "color": {
+            "color": "#fff",
+            "index": "-1"
+          },
+          "colorByExpression": "#fff",
+          "width": "0"
+        },
+        "color": {
+          "color": "#333",
+          "index": "-2"
+        },
+        "colorByExpression": "#333",
+        "colorType": 0,
+        "rotate": 0,
+        "size": "15",
+        "style": "normal",
+        "visibility": true,
+        "weight": "normal"
+      },
+      "barOptions": {
+        "barGap": "0",
+        "barWidth": "40",
+        "barWidthAuto": true,
+        "maxBarWidth": "100%",
+        "minBarWidth": "1"
+      },
+      "dataLabel": {
+        "align": "center",
+        "distance": "5",
+        "drag": {
+          "isDraggable": false
+        },
+        "family": "sans-serif",
+        "labelLine": {
+          "color": {
+            "color": "#000",
+            "index": "-1"
+          },
+          "colorExpression": "#000",
+          "colorType": 0,
+          "opacity": "1",
+          "show": false,
+          "type": "solid",
+          "width": "1"
+        },
+        "position": "inside",
+        "rotate": "0",
+        "size": "15",
+        "style": "normal",
+        "visibility": true,
+        "weight": "normal",
+        "weightCustom": "300"
+      },
+      "focus": {
+        "colorType": 0,
+        "item": {
+          "color": {
+            "color": "#4477aa",
+            "index": "-1"
+          },
+          "colorExpression": {
+            "color": ""
+          }
+        },
+        "label": {
+          "color": {
+            "color": "#4477aa",
+            "index": "-1"
+          },
+          "colorExpression": {
+            "color": ""
+          },
+          "size": "16"
+        },
+        "on": false
+      },
+      "grid": {
+        "containLabel": false,
+        "customGridPosition": false,
+        "height": "auto",
+        "position": {
+          "bottom": "60",
+          "left": "10%",
+          "right": "10%",
+          "top": "60"
+        },
+        "switchAxies": false,
+        "width": "auto"
+      },
+      "legend": {
+        "colorType": 0,
+        "distance": "0%",
+        "icon": "circle",
+        "iconLine": "emptyCircle",
+        "position": "top",
+        "text": {
+          "border": {
+            "color": {
+              "color": "#fff",
+              "index": "-1"
+            },
+            "colorByExpression": "#fff",
+            "width": "0"
+          },
+          "color": {
+            "color": "#4477aa",
+            "index": "-1"
+          },
+          "colorExpression": "",
+          "size": "12"
+        },
+        "visibility": true
+      },
+      "others": {
+        "numberVisibleItems": "12",
+        "showDataZoom": true,
+        "showZeroBars": true
+      },
+      "tooltip": {
+        "alwaysShow": false,
+        "backgroundColor": "rgba(255,255,255,0.7)",
+        "borderColor": "#333",
+        "borderWidth": "1",
+        "colorType": 0,
+        "customFormatter": {
+          "function": "tooltip = params[0].axisValue\n                                params.forEach((variavel) => {\n                                    if(variavel.data.showInToolTip){\n                                        tooltip = tooltip + '<div style=\"min-width:'+tooltipSettings.minWidth+';display: flex;justify-content: space-between;\">'\n                                        tooltip = tooltip + '<span>' + variavel.marker + variavel.seriesName + ':</span>' + variavel.data.valueText\n                                        tooltip = tooltip + '</div>'\n                                    }\n                \n                                })\n                \n                                return tooltip;",
+          "sortByStack": false,
+          "use": false
+        },
+        "minWidth": "150px",
+        "show": false,
+        "text": {
+          "border": {
+            "color": {
+              "color": "#fff",
+              "index": "-1"
+            },
+            "colorByExpression": "#fff",
+            "width": "0"
+          },
+          "color": {
+            "color": "#000",
+            "index": "-1"
+          },
+          "colorExpression": "",
+          "size": "12"
+        },
+        "transitionDuration": "0.4"
+      },
+      "yAxis": {
+        "left": {
+          "autoInterval": true,
+          "intervalType": 0,
+          "inverse": false,
+          "label": {
+            "currencySymbol": "USD",
+            "inputType": 0,
+            "locales": "en-US",
+            "minFractDigits": "0",
+            "on": true,
+            "style": "decimal"
+          },
+          "max": "100",
+          "min": "0",
+          "show": false
+        },
+        "right": {
+          "autoInterval": true,
+          "intervalType": 0,
+          "inverse": false,
+          "label": {
+            "currencySymbol": "USD",
+            "inputType": 0,
+            "locales": "en-US",
+            "minFractDigits": "0",
+            "on": true,
+            "style": "decimal"
+          },
+          "max": "100",
+          "min": "0",
+          "show": false
+        }
+      }
+    },
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": true,
+    "subtitle": "",
+    "title": "",
+    "version": "2.15.0",
+    "visualization": "customBarChart"
+  }
+}

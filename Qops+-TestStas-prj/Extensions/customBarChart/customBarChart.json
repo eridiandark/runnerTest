@@ -1,0 +1,55 @@
+{
+  "name": "customBarChart",
+  "Properties": [
+    {
+      "server": "rds2.dvsts.com",
+      "customProperties": [
+        {
+          "name": "StreamAccess_PowerUser",
+          "values": [
+            "CN=ugEU_MSMART-TST-MSMART_Omnia-POW,OU=Global,OU=Groups,OU=QlikSense,OU=Common Services,DC=eu,DC=merckgroup,DC=com",
+            "CN=ugEU_MSMART-TST-OneOmniA-POW,OU=Global,OU=Groups,OU=QlikSense,OU=Common Services,DC=eu,DC=merckgroup,DC=com"
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "id": "bc116787-f064-4b72-922a-fd43f18738d2",
+          "name": "TestTag3"
+        },
+        {
+          "id": "46c9bb71-6df9-4a65-b74f-6f2937dfe3b2",
+          "name": "wr0ng f!le $ystem | t@g"
+        }
+      ]
+    }
+  ],
+  "qopsExtensionType": "QlikSense",
+  "references": [
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\customBarChart\\Custom Bar Chart Samples.qvf",
+      "externalPath": "/extensions/customBarChart/Custom Bar Chart Samples.qvf",
+      "logicalPath": "/extensions/customBarChart/Custom Bar Chart Samples.qvf"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\customBarChart\\customBarChart.js",
+      "externalPath": "/extensions/customBarChart/customBarChart.js",
+      "logicalPath": "/extensions/customBarChart/customBarChart.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\customBarChart\\customBarChart.qext",
+      "externalPath": "/extensions/customBarChart/customBarChart.qext",
+      "logicalPath": "/extensions/customBarChart/customBarChart.qext"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\customBarChart\\echarts.min.js",
+      "externalPath": "/extensions/customBarChart/echarts.min.js",
+      "logicalPath": "/extensions/customBarChart/echarts.min.js"
+    },
+    {
+      "dataLocation": "%StaticContentRoot%\\Extensions\\customBarChart\\properties.js",
+      "externalPath": "/extensions/customBarChart/properties.js",
+      "logicalPath": "/extensions/customBarChart/properties.js"
+    }
+  ]
+}
