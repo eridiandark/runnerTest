@@ -29,7 +29,7 @@ jobs:
     needs: qops-init
     steps:
       - name: building
-        run: powershell qops-build -reload
+        run: powershell qops-build
 
   # qops-reload:
   #   name: "Reloading QlikSense Application"
